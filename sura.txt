@@ -1,0 +1,18 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>elegant web page </title>
+<link rel="stylesheet" href="styles.css">
+>/head>
+<body>
+<div class="container">
+<h>welcome to my stylish page</h>
+<p>this is a beautiully formatted web page using external CSS.Enjoy the colors ,layouts and design.</p>
+<div class="highlight-box">
+<h2>hello</h2>
+<p>hello im under the water pleaase help me</p>
+<h3>john is a kazhiveri</h3>
+</div>
+</div>
+</body>
+</html>
